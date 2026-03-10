@@ -51,4 +51,7 @@ Optimizar la experiencia de clientes con fibra óptica (mejor soporte técnico y
 Revisar políticas de pago electrónico (mayor seguridad, facilidad y transparencia en facturación).
 Programas de fidelización para clientes nuevos durante los primeros meses de contrato.
 
+Como ejecutar este analisis de datos
+Clonar este repositorio (si aplica) o descargar el archivo .ipynb y el archivo .csv Asegurarse de tener Python y las bibliotecas requeridas instaladas Abrir y ejecutar el notebook TelecomX_LATAM.ipynb en un entorno Jupyter (como Jupyter Lab, Jupyter Notebook clásico, o Google Colab). Las celdas deben ejecutarse en orden.
+
 
